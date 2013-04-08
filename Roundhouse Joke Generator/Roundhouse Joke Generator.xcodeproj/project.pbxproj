@@ -29,6 +29,11 @@
 		EFA2F65A171332FA00D64CF9 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F659171332FA00D64CF9 /* Default.png */; };
 		EFA2F65C171332FE00D64CF9 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F65B171332FE00D64CF9 /* Default@2x.png */; };
 		EFA2F65E1713330200D64CF9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F65D1713330200D64CF9 /* Default-568h@2x.png */; };
+		EFA2F660171339DE00D64CF9 /* App_Icon.002.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F65F171339DE00D64CF9 /* App_Icon.002.png */; };
+		EFA2F662171339E500D64CF9 /* App_Icon.001.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F661171339E500D64CF9 /* App_Icon.001.png */; };
+		EFA2F664171339F200D64CF9 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F663171339F200D64CF9 /* Default.png */; };
+		EFA2F666171339FA00D64CF9 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F665171339FA00D64CF9 /* Default@2x.png */; };
+		EFA2F668171339FE00D64CF9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EFA2F667171339FE00D64CF9 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +67,11 @@
 		EFA2F659171332FA00D64CF9 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
 		EFA2F65B171332FE00D64CF9 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "../Default@2x.png"; sourceTree = "<group>"; };
 		EFA2F65D1713330200D64CF9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
+		EFA2F65F171339DE00D64CF9 /* App_Icon.002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = App_Icon.002.png; sourceTree = "<group>"; };
+		EFA2F661171339E500D64CF9 /* App_Icon.001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = App_Icon.001.png; sourceTree = "<group>"; };
+		EFA2F663171339F200D64CF9 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		EFA2F665171339FA00D64CF9 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		EFA2F667171339FE00D64CF9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +93,11 @@
 		EFA2F60E17132EE400D64CF9 = {
 			isa = PBXGroup;
 			children = (
+				EFA2F667171339FE00D64CF9 /* Default-568h@2x.png */,
+				EFA2F665171339FA00D64CF9 /* Default@2x.png */,
+				EFA2F663171339F200D64CF9 /* Default.png */,
+				EFA2F661171339E500D64CF9 /* App_Icon.001.png */,
+				EFA2F65F171339DE00D64CF9 /* App_Icon.002.png */,
 				EFA2F62017132EE400D64CF9 /* Roundhouse Joke Generator */,
 				EFA2F61917132EE400D64CF9 /* Frameworks */,
 				EFA2F61817132EE400D64CF9 /* Products */,
@@ -235,6 +250,11 @@
 				EFA2F65A171332FA00D64CF9 /* Default.png in Resources */,
 				EFA2F65C171332FE00D64CF9 /* Default@2x.png in Resources */,
 				EFA2F65E1713330200D64CF9 /* Default-568h@2x.png in Resources */,
+				EFA2F660171339DE00D64CF9 /* App_Icon.002.png in Resources */,
+				EFA2F662171339E500D64CF9 /* App_Icon.001.png in Resources */,
+				EFA2F664171339F200D64CF9 /* Default.png in Resources */,
+				EFA2F666171339FA00D64CF9 /* Default@2x.png in Resources */,
+				EFA2F668171339FE00D64CF9 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,6 +393,7 @@
 				EFA2F63C17132EE400D64CF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
